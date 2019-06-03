@@ -3,7 +3,7 @@
 Hey you!
 
 So this is gonna be the code for your site. This is where the code will live that needs to be built and shipped to 
-wherever hosts katsummers.co.uk
+wherever hosts http://kathrynsummers.co.uk
 
 ### `What you can do`
 
