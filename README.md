@@ -2,7 +2,7 @@
 
 Hey you!
 
-So this is gonna be the code for your site. This is where the code will live that needs to be built and shipped to 
+So this is gonna be your new site. This is where the code will live that needs to be built and shipped to 
 wherever hosts http://kathrynsummers.co.uk
 
 ### `What you can do`
@@ -16,5 +16,8 @@ some assets or images for the site, but that's a ways off yet
 - ReactJs
 - more to follow as I make some more tech choices
 
+### `Theme`
+
+https://www.styleshout.com/free-templates/epitome/
 
 
